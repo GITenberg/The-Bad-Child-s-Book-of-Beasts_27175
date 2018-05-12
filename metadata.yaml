@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Hamilton-Temple-Blackwood, Ian Basil Gawaine, Lord
     - Blackwood, Basil T.
-    birthdate: &id001 1870
+    birthdate: 1870
     deathdate: 1917
     gutenberg_agent_id: '32512'
     url: http://www.gutenberg.org/2009/agents/32512
@@ -17,13 +17,15 @@ creator:
   author:
     agent_name: Belloc, Hilaire
     alias: Belloc, Joseph Hilaire Pierre
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1953
     gutenberg_agent_id: '2437'
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: Humorous and cautionary verses about such animals as the whale, the polar
   bear, the frog, the dodo, and the yak.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27175#The-Bad-Child-s-Book-of-Beasts
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
 identifiers:
